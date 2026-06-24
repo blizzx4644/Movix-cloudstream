@@ -16,7 +16,7 @@
     "version": 3,
     "internalName": "MovixCloudstream",
     "description": "Extension Cloudstream qui agrège les sources streaming utilisées par Movix.",
-    "fileSize": 115926,
+    "fileSize": 116331,
     "url": "https://github.com/blizzx4644/Movix-cloudstream/raw/refs/heads/main/MovixCloudstream.cs3",
     "name": "MovixCloudstream"
   }
