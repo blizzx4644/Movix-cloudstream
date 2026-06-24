@@ -2,7 +2,7 @@
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=flemmix.farm&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/TON_USER/movix-cloudstream",
+    "repositoryUrl": "https://github.com/blizzx4644/Movix-cloudstream",
     "status": 1,
     "language": "fr",
     "authors": [
@@ -17,7 +17,7 @@
     "internalName": "MovixCloudstream",
     "description": "Extension Cloudstream qui agrège les sources streaming utilisées par Movix.",
     "fileSize": 115926,
-    "url": "https://raw.githubusercontent.com/TON_USER/movix-cloudstream/refs/heads/builds/MovixCloudstream.cs3",
+    "url": "https://github.com/blizzx4644/Movix-cloudstream/refs/heads/builds/MovixCloudstream.cs3",
     "name": "MovixCloudstream"
   }
 ]
