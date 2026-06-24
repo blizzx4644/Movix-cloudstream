@@ -6,7 +6,7 @@
     "status": 1,
     "language": "fr",
     "authors": [
-      "Movix"
+      "Blizz"
     ],
     "tvTypes": [
       "Movie",
@@ -17,7 +17,7 @@
     "internalName": "MovixCloudstream",
     "description": "Extension Cloudstream qui agrège les sources streaming utilisées par Movix.",
     "fileSize": 115926,
-    "url": "https://github.com/blizzx4644/Movix-cloudstream/refs/heads/builds/MovixCloudstream.cs3",
+    "url": "https://github.com/blizzx4644/Movix-cloudstream/raw/refs/heads/main/MovixCloudstream.cs3",
     "name": "MovixCloudstream"
   }
 ]
