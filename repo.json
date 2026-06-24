@@ -4,6 +4,6 @@
   "description": "Extension Cloudstream Movix pour sources streaming FR.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/TON_USER/movix-cloudstream/refs/heads/builds/plugins.json"
+    "https://github.com/blizzx4644/Movix-cloudstream/raw/refs/heads/main/plugins.json"
   ]
 }
