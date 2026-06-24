@@ -13,10 +13,10 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "MovixCloudstream",
     "description": "Extension Cloudstream qui agrège les sources streaming utilisées par Movix.",
-    "fileSize": 43943,
+    "fileSize": 115926,
     "url": "https://raw.githubusercontent.com/TON_USER/movix-cloudstream/refs/heads/builds/MovixCloudstream.cs3",
     "name": "MovixCloudstream"
   }
